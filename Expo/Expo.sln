@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Expo", "Expo\Expo.dtproj", "{3D63AED6-5195-44C9-8196-19B12B58B8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D63AED6-5195-44C9-8196-19B12B58B8F4}.Development|Default.ActiveCfg = Development
+		{3D63AED6-5195-44C9-8196-19B12B58B8F4}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0C9BD0-6A6C-4139-852C-2C4A2EEC4A1E}
+	EndGlobalSection
+EndGlobal
